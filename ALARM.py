@@ -1,3 +1,10 @@
+#@author: Şükrü Erdem Gök
+#@date:14/35/2020
+#Python 3.8 Windows
+#Note: for only windows
+
+#Python alarm
+
 #LIB
 from time import strftime
 from winsound import Beep
